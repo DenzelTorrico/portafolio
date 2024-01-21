@@ -1,7 +1,7 @@
 let sistema = document.getElementById("sistemacontable")
 let mercado = document.getElementById("Mercadoz")
 let spring = document.getElementById("proyectospring")
-let apiclima = document.getElementById("apliclima")
+let apiclima = document.getElementById("apiclima")
 let proyectmovies = document.getElementById("proyectmovies")
 
 let linkssistema = ["Cliente.png","egresos.png","ingreso.png"]
